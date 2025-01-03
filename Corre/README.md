@@ -23,4 +23,4 @@ Este es un juego sencillo creado con Python y la librería **Pygame**, en el que
    Abre una terminal y ejecuta:
 
    ```bash
-   git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+   git clone https://github.com/andresgarcia9211/Corre.git
